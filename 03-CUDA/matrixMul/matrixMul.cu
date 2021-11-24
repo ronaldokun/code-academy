@@ -53,6 +53,7 @@ __global__ void MatrixMulCUDA(float *C, float *A,
 
     // Index of the first sub-matrix of A processed by the block
     int aBegin = wA * BLOCK_SIZE * by;
+    
 
     // Index of the last sub-matrix of A processed by the block
     int aEnd = aBegin + wA - 1;
