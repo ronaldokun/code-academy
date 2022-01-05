@@ -145,11 +145,7 @@ def inverse_matrix(X):
     assert len(X[0]) == 2
     det = X[0][0] * X[1][1] - X[0][1] * X[1][0]
     assert det != 0
-    inv_mat = scalar_matrix_product(
-        1.0 / det, [[X[1][1], -X[0][1]], [-X[1][0], X[0][0]]]
-    )
-
-    return inv_mat
+    return scalar_matrix_product(1.0 / det, [[X[1][1], -X[0][1]], [-X[1][0], X[0][0]]])
 
 
 def probability(p):
@@ -176,9 +172,8 @@ def rounder(numbers, d=4):
     "Round a single number, or sequence of numbers, to d decimal places."
     if isinstance(numbers, (int, float)):
         return round(numbers, d)
-    else:
-        constructor = type(numbers)  # Can be list, set, tuple, etc.
-        return constructor(rounder(n, d) for n in numbers)
+    constructor = type(numbers)  # Can be list, set, tuple, etc.
+    return constructor(rounder(n, d) for n in numbers)
 
 
 def num_or_str(x):
@@ -232,10 +227,9 @@ def memoize(fn, slot=None):
         def memoized_fn(obj, *args):
             if hasattr(obj, slot):
                 return getattr(obj, slot)
-            else:
-                val = fn(obj, *args)
-                setattr(obj, slot, val)
-                return val
+            val = fn(obj, *args)
+            setattr(obj, slot, val)
+            return val
 
     else:
 
