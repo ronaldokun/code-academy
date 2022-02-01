@@ -88,11 +88,13 @@ modelo.fit(x_treino, y_treino, batch_size = 60, epochs = 10, validation_split = 
 loss, accuracy = modelo.evaluate(x_teste, y_teste)
 print(f"Acurácia = {accuracy*100:.2f} %")
 
-# Previsões com o modelo
-print(modelo.predict_classes(x_teste))
-
 # Grava as previsões
-preds = modelo.predict_classes(x_teste)
+preds = modelo.predict(x_teste)
+
+preds=[class_names[np.argmax(pred)] for pred in preds]
+
+# Previsões com o modelo
+print(preds)
 
 # Obtém algumas imagens randomicamente
 rand_idxs = np.random.permutation(len(x_teste))[:20]
