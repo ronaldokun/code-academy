@@ -68,7 +68,8 @@ def grad(x, y):
 # Hiperparâmetros
 n_batches = 10000
 learning_rate = 0.01
-batch_size = 128
+batch_size = 1024
+epochs = 5
 
 # Cria o otimizador usando SGD (Stochastic Gradient Descent)
 optimizer = tf.optimizers.SGD(learning_rate)
@@ -86,26 +87,27 @@ dataset_treino = dataset_treino.repeat().shuffle(x_treino.shape[0]).batch(batch_
 
 print ("\nIniciando o Treinamento!")
 
-# Ciclo de treinamento
-for batch_numb, (batch_xs_treino, batch_ys_treino) in enumerate(dataset_treino.take(n_batches), 1):
+for _ in range(epochs):
+    # Ciclo de treinamento
+    for batch_numb, (batch_xs_treino, batch_ys_treino) in enumerate(dataset_treino.take(n_batches), 1):
 
-    # Calcula os gradientes
-    gradientes = grad(batch_xs_treino, batch_ys_treino)
+        # Calcula os gradientes
+        gradientes = grad(batch_xs_treino, batch_ys_treino)
 
-    # Otimiza os pesos com o valor do gradiente
-    optimizer.apply_gradients(zip(gradientes, [pesos, vieses]))
+        # Otimiza os pesos com o valor do gradiente
+        optimizer.apply_gradients(zip(gradientes, [pesos, vieses]))
 
-    # Faz uma previsão
-    y_pred = logistic_regression(batch_xs_treino)
+        # Faz uma previsão
+        y_pred = logistic_regression(batch_xs_treino)
 
-    # Calcula o erro
-    loss = cross_entropy(batch_ys_treino, y_pred)
+        # Calcula o erro
+        loss = cross_entropy(batch_ys_treino, y_pred)
 
-    # Calcula a acurácia
-    acc = accuracy(batch_ys_treino, y_pred)
+        # Calcula a acurácia
+        acc = accuracy(batch_ys_treino, y_pred)
 
-    # Print
-    print("Número do Batch: %i, Erro do Modelo: %f, Acurácia em Treino: %f" % (batch_numb, loss, acc))
+        # Print
+        print("Número do Batch: %i, Erro do Modelo: %f, Acurácia em Treino: %f" % (batch_numb, loss, acc))
 
 print ("\nTreinamento concluído!")
 
