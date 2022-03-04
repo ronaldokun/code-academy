@@ -11,4 +11,5 @@ git submodule init
 git submodule update
 mamba env create -f code-academy/02-FRAMEWORKS/environment.yml
 cd code-academy/fsdl && make conda-update && make pip-tools
+mamba clean --all -y
 
