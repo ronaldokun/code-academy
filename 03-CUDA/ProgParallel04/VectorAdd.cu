@@ -26,16 +26,16 @@ __global__ void SumArrays(float* const a, float* const b, float* const c, int co
 
 int main()
 {
-	// Vari·veis do host
+	// Vari√°veis do host
     float *aH, *bH, *cH, *refH;
 
-	// Vari·veis do device
+	// Vari√°veis do device
     float *aD, *bD, *cD;
 
 	// CUDA error
     cudaError_t e = cudaSuccess;
 
-	// Dimensıes
+	// Dimens√µes
     dim3 gridSize;
     dim3 blockSize;
 
@@ -44,7 +44,7 @@ int main()
     int const N_BYTES = N * sizeof(float);
     int const BLOCK_SIZE = 512; 
 
-	// AlocaÁ„o de memÛria no host
+	// Aloca√ß√£o de mem√≥ria no host
     aH = (float*)malloc(N_BYTES);
     bH = (float*)malloc(N_BYTES);
     cH = (float*)malloc(N_BYTES);
@@ -53,7 +53,7 @@ int main()
 	// Gera dados de teste
     GenerateTestData(N, aH, bH, cH, refH);
 
-	// Aloca memÛria na GPU
+	// Aloca mem√≥ria na GPU
     e = cudaMalloc((void**)&aD, N_BYTES);
     AxCheckError(e);
     e = cudaMalloc((void**)&bD, N_BYTES);
@@ -61,32 +61,32 @@ int main()
     e = cudaMalloc((void**)&cD, N_BYTES);
     AxCheckError(e);
 
-	// Copia os valores das vari·veis na memÛria do host para a memÛria do device
+	// Copia os valores das vari√°veis na mem√≥ria do host para a mem√≥ria do device
     e = cudaMemcpy(aD, aH, N_BYTES, cudaMemcpyHostToDevice);
     AxCheckError(e);
     e = cudaMemcpy(bD, bH, N_BYTES, cudaMemcpyHostToDevice);
     AxCheckError(e);
 
-	// Define as dimensıes
+	// Define as dimens√µes
     blockSize.x = BLOCK_SIZE; blockSize.y = 1; blockSize.z = 1;
     gridSize.x = ((N + BLOCK_SIZE - 1) / BLOCK_SIZE); gridSize.y = 1; gridSize.z = 1;
 
 	// Executa o kernel - Soma os arrays
     SumArrays<<<gridSize, blockSize>>>(aD, bD, cD, N);
 
-    // ObtÈm erros de execuÁ„o do kernel
+    // Obt√©m erros de execu√ß√£o do kernel
     cudaDeviceSynchronize();
     e = cudaGetLastError();
     AxCheckError(e);
 
-	// Copia o resultado da memÛria do device para a memÛria do host
+	// Copia o resultado da mem√≥ria do device para a mem√≥ria do host
     e = cudaMemcpy(cH, cD, N_BYTES, cudaMemcpyDeviceToHost);
     AxCheckError(e);
 
 	// Compara os dados
     CompareData(N, cH, refH);
 
-	// Libera a memÛria
+	// Libera a mem√≥ria
     cudaFree(aD); cudaFree(bD); cudaFree(cD);
     free(aH); free(bH); free(cH); free(refH);
     AxCheckError(cudaDeviceReset());
@@ -95,7 +95,7 @@ int main()
     return 0;
 }
 
-// FunÁ„o para gerar os dados
+// Fun√ß√£o para gerar os dados
 void GenerateTestData(int const N, float* const a, float* const b, float* const c, float* const ref)
 {
     int i;
@@ -112,7 +112,7 @@ void GenerateTestData(int const N, float* const a, float* const b, float* const 
 
 }
 
-// FunÁ„o para comparar os dados
+// Fun√ß√£o para comparar os dados
 void CompareData(int const N, float const* const a, float const* const b)
 {
     int i;
@@ -136,7 +136,7 @@ void CompareData(int const N, float const* const a, float const* const b)
 
 }
 
-// FunÁıes para checar e imprimir o cÛdigo de erro
+// Fun√ß√µes para checar e imprimir o c√≥digo de erro
 void CheckError(cudaError_t const err, char const* const fun, const int line)
 {
     if (err)
