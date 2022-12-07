@@ -9,7 +9,7 @@ mkdir -p ~/.ssh
 scp /notebooks/ssh/* ~/.ssh/
 sudo chmod 600 ~/.ssh/*
 scp /notebooks/dotfiles/bash_aliases ~/.bash_aliases
-source ~/.bashrc
+source /root/.bashrc
 git config --global user.email "rsilva@anatel.gov.br"
 git config --global user.name "Ronaldo S.A. Batista"
 
