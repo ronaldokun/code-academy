@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5ee4ea1fb695bbdda369b1e71c5b5ece7d8fdd972a520ab7a71d0d3dd5846c5c
-size 50
+id,label
+1,ship
+2,deer
+3,horse
+4,automobile
+5,cat
