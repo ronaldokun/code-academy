@@ -14,9 +14,9 @@ args = vars(ap.parse_args())
 
 # Carregando a imagem e mostrando algumas informações básicas 
 image = cv2.imread(args["image"])
-print("Altura: {} pixels".format(image.shape[0]))
-print("Largura: {} pixels".format(image.shape[1]))
-print("Canais: {}".format(image.shape[2]))
+print(f"Altura: {image.shape[0]} pixels")
+print(f"Largura: {image.shape[1]} pixels")
+print(f"Canais: {image.shape[2]}")
 
 # Mostrando a imagem e aguardando uma tecla pressionada para finalizar
 cv2.imshow("Image", image)
