@@ -141,3 +141,5 @@ checklink/cookies.txt
 
 bin/*
 *.zip
+*.bz2
+*.tar
