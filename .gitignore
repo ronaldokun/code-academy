@@ -143,3 +143,5 @@ bin/*
 *.zip
 *.bz2
 *.tar
+*.npy
+*.csv
