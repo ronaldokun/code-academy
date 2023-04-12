@@ -19,10 +19,9 @@
 # mamba env create -f code-academy/02-FRAMEWORKS/environment.yml
 # cd code-academy/fsdl && make conda-update && make pip-tools
 # mamba clean --all -y
-# rm -rf d2l
-# wget https://d2l.ai/d2l-en.zip
-# unzip d2l-en.zip -d d2l
-# rm d2l-en.zip
-# rm -rf d2l/mxnet
+wget https://d2l.ai/d2l-en.zip
+unzip d2l-en.zip -d d2l
+rm d2l-en.zip
+rm -rf d2l/mxnet
 
 
