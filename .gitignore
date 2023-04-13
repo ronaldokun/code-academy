@@ -145,4 +145,4 @@ bin/*
 *.tar
 *.npy
 *.csv
-d2l/*
+d2l
