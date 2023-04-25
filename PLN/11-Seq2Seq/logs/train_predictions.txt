@@ -1,0 +1,144 @@
+============= Step 500 =============
+Actual: Close to tourist attractions and great with a car parking space available . </s> 
+Previsto: The the the , , the , the <unk> , , , , </s> 
+(Treino) BLEU: 0.05624
+============= Step 1000 =============
+Actual: Located in Chiclana de la Frontera , this holiday home for . . . </s> 
+Previsto: The in the , <unk> <unk> , the hotel . . the </s> 
+(Treino) BLEU: 0.16773
+============= Step 1000 =============
+	 Loss: 1.19761
+============= Step 1500 =============
+Actual: Set in an excellent location near the Andalusian city of Marbella , this luxurious 5 ##AT##-##AT## star hotel is located next to a stunning beach on the Costa del Sol . </s> 
+Previsto: The in the <unk> location , the heart area , the , the hotel hotel ##AT##-##AT## star hotel , located in to the few area . the heart . <unk> . </s> 
+(Treino) BLEU: 0.20920
+============= Step 2000 =============
+Actual: A big share of today &apos;s processes have been invented and / or advanced by us . </s> 
+Previsto: The credit location of the is <unk> to been a by the <unk> <unk> . the . </s> 
+(Treino) BLEU: 0.25286
+============= Step 2000 =============
+	 Loss: 1.01258
+============= Step 2500 =============
+Actual: The Casino holds 53 excellent looking games including the Mega Fortune progressive slot with the highest progressive jackpot found online . </s> 
+Previsto: <unk> <unk> is the : for for for a hotel ##AT##-##AT## of . . the room of . . . . </s> 
+(Treino) BLEU: 0.26904
+============= Step 3000 =============
+Actual: We provide towels , bed linen and offer weekly servicing . </s> 
+Previsto: The are a and and and and a a . , </s> 
+(Treino) BLEU: 0.28540
+============= Step 3000 =============
+	 Loss: 0.95738
+============= Step 3500 =============
+Actual: 15 And there were some cities which remained ; but the damage thereof was exceedingly great , and there were many in them who were slain . </s> 
+Previsto: 13 And now is a of , is the and also Lord of , given of , and the are not of the . have not to </s> 
+(Treino) BLEU: 0.28749
+============= Step 4000 =============
+Actual: Double beds were a little small . </s> 
+Previsto: The <unk> are very great , and </s> 
+(Treino) BLEU: 0.28931
+============= Step 4000 =============
+	 Loss: 0.91862
+============= Step 4500 =============
+Actual: Many Buddhists live vegetarian or vegan lives because of the mercy they feel for the animals . </s> 
+Previsto: The of are in , <unk> , in of the <unk> and are . a most . </s> 
+(Treino) BLEU: 0.27927
+============= Step 5000 =============
+Actual: African American Museum &amp; Library at Oakland , ( at 14th Street and Martin Luther King Jr . Way ) , &#91; 29 &#93; . </s> 
+Previsto: <unk> <unk> <unk> , <unk> , the , the <unk> the August ) <unk> ) ) ) , </s> 
+(Treino) BLEU: 0.28876
+============= Step 5000 =============
+	 Loss: 0.91911
+============= Step 5500 =============
+Actual: The NI PPC ##AT##-##AT## <unk> combines a 2 GHz Pentium 4 that works with a wide range of NI software and a rugged 15 in . touch screen . </s> 
+Previsto: This <unk> ##AT##-##AT## ##AT##-##AT## <unk> is a <unk> ##AT##-##AT## <unk> , ##AT##-##AT## is in a total range of the ##AT##-##AT## , the <unk> range ##AT##-##AT## the </s> 
+(Treino) BLEU: 0.29482
+============= Step 6000 =============
+Actual: <unk> was what we really went on this trip for and on the morning of the fourth ( 4 ) day we had not seen a <unk> . . . . ; ^ ( . . . . . but we were not disappointed , it was magnificent to be close to those majestic and beautiful creatures . . . 
+Previsto: The <unk> a to were like to the hotel , the the the <unk> . the hotel . <unk> <unk> . . were to very in <unk> . </s> 
+(Treino) BLEU: 0.29607
+============= Step 6000 =============
+	 Loss: 0.88539
+============= Step 6500 =============
+Actual: In 2370 , Commander Donald <unk> , the ship &apos;s chief engineer , regularly engaged in power conversion efficiency contests with Geordi La Forge , chief engineer of the USS Enterprise ##AT##-##AT## D . </s> 
+Previsto: The the , the <unk> , , the <unk> was <unk> of &quot; the the in the , , , , the , <unk> , <unk> , , the <unk> ##AT##-##AT## , <unk> . </s> 
+(Treino) BLEU: 0.29904
+============= Step 7000 =============
+Actual: The guest reviews are submitted by our customers after their stay at NH <unk> . </s> 
+Previsto: The guest reviews are submitted by our customers after their stay at Hotel <unk> . </s> 
+(Treino) BLEU: 0.28900
+============= Step 7000 =============
+	 Loss: 0.88476
+============= Step 7500 =============
+Actual: Using the LabVIEW Real ##AT##-##AT## Time Module , you can develop and deploy applications to all NI real ##AT##-##AT## time hardware targets including PXI , Compact FieldPoint , FieldPoint , CompactRIO , and standard desktop PCs . </s> 
+Previsto: The the NI Module ##AT##-##AT## ray Module Module NI can create a control a , the NI ##AT##-##AT## ##AT##-##AT## <unk> , and , the ##AT##-##AT## <unk> and , and , and , and <unk> . . . </s> 
+(Treino) BLEU: 0.29933
+============= Step 8000 =============
+Actual: The location to the <unk> , <unk> to airport , luxury of room &amp; bathroom . </s> 
+Previsto: It <unk> is be <unk> is the is the the the , the , <unk> , </s> 
+(Treino) BLEU: 0.30931
+============= Step 8000 =============
+	 Loss: 0.86632
+============= Step 8500 =============
+Actual: I do not like that <unk> <unk> , I do not like that <unk> whales , I do not like that poisoned lynx , seals beat that . . . but as some Australian <unk> massacre massacred because some wolves in Spain , so that they are harmful . . . . . Come on ! </s> 
+Previsto: I had not have to I , <unk> and had not know to I , , and have not know to I was , I , to I </s> 
+(Treino) BLEU: 0.33041
+============= Step 9000 =============
+Actual: km , <unk> with 350 residents and its 16 uninhabited islets are gifted with an abundance as well as diversity of wildlife and flora species living within 16 different <unk> that warranted its registration as an EU Special Protection Area , Natura 2000 site and its inclusion in the <unk> <unk> Project for the special protection of certain flora and 
+Previsto: The from the is the <unk> , the <unk> <unk> cities . <unk> . the <unk> of well as a of the . the . . . the years countries . are a <unk> . well important . . . . which the . . the own . the <unk> . . . the <unk> time of the activities . 
+(Treino) BLEU: 0.32454
+============= Step 9000 =============
+	 Loss: 0.82594
+============= Step 9500 =============
+Actual: Iberotel <unk> Beach Resort has recently been certified according to GREEN <unk> 21 a worldwide benchmarking and certification program which facilitates sustainable travel and tourism for consumers , companies and communities . </s> 
+Previsto: The <unk> is is is a been renovated by to the <unk> , <unk> <unk> <unk> <unk> <unk> for . is the for to the . the . and and the . </s> 
+(Treino) BLEU: 0.30830
+============= Step 10000 =============
+Actual: The Community brings humanitarian aid to many countries in the Southern hemisphere . </s> 
+Previsto: The <unk> <unk> the and to the of . the world . . </s> 
+(Treino) BLEU: 0.31741
+============= Step 10000 =============
+	 Loss: 0.84475
+============= Step 10500 =============
+Actual: The query becomes part of the currently open transaction . </s> 
+Previsto: The <unk> is the of the <unk> <unk> . . </s> 
+(Treino) BLEU: 0.31851
+============= Step 11000 =============
+Actual: It is available 24 hours a day and a nice way to relax after a day of sightseeing . </s> 
+Previsto: Here is a for hours and day of a day atmosphere to enjoy . the day . the . </s> 
+(Treino) BLEU: 0.32645
+============= Step 11000 =============
+	 Loss: 0.84775
+============= Step 11500 =============
+Actual: It is located on the top of a hill offering extraordinary views of the Magalluf beach to which it has direct access by an outdoors elevator . It is 25km far from the Airport and <unk> from Palma . </s> 
+Previsto: The is located in the <unk> floor the hill , a gardens of the <unk> <unk> , the you is a access to the outdoor ##AT##-##AT## . </s> 
+(Treino) BLEU: 0.31787
+============= Step 12000 =============
+Actual: 790 00 : 41 : 47 <unk> -- &gt; 00 : 41 : 50 <unk> I &apos;m told this could take anywhere <unk> 00 : 41 : 50 <unk> -- &gt; 00 : 41 : 52 <unk> between twenty minutes and five hours . </s> 
+Previsto: <unk> 00 : 39 : 39 <unk> -- &gt; 00 : 39 : 39 <unk> -- <unk> not that I be a on on : 00 : 39 <unk> -- &gt; 00 : 39 : 39 <unk> -- <unk> ##AT##-##AT## . I days . </s> 
+(Treino) BLEU: 0.31936
+============= Step 12000 =============
+	 Loss: 0.86228
+============= Step 12500 =============
+Actual: <unk> Sacred Monkey Forest is a natural reserve located in Central Bali . </s> 
+Previsto: <unk> is is is is located small and , in the Park . </s> 
+(Treino) BLEU: 0.31427
+============= Step 13000 =============
+Actual: During the winter of <unk> he had decided that if no change occurred by a certain date fixed by himself , he would end his life by taking poison . Then , a few days before the date he had chosen , behold , the <unk> died unexpectedly , and the whole situation was miraculously reversed . </s> 
+Previsto: In the first , the , had a to he he longer of in the <unk> <unk> of , the , the said like to own to the the in </s> 
+(Treino) BLEU: 0.31625
+============= Step 13000 =============
+	 Loss: 0.83488
+============= Step 13500 =============
+Actual: The hotel also considers preferences regarding baths or showers . </s> 
+Previsto: The hotel is has a of the , a . </s> 
+(Treino) BLEU: 0.32875
+============= Step 14000 =============
+Actual: Some <unk> invoices may also include $ 12 per year for each subscription to The Rotarian , billed as $ 6 in January and $ 6 in July ( subscriptions to regional Rotary magazines are billed separately ) , and variable fees for insurance ( U <unk> . clubs only ) . </s> 
+Previsto: The of are are be be the 0 <unk> cent . the year . the <unk> . and . a 1 <unk> the . <unk> 1 <unk> the . <unk> ) the ) ) ) available . ) . and the the . the . <unk> <unk> ) ) ) ) . </s> 
+(Treino) BLEU: 0.32850
+============= Step 14000 =============
+	 Loss: 0.81977
+============= Step 14500 =============
+Actual: The most exclusive products and relaxing treatments will please your body . </s> 
+Previsto: <unk> best important hotels are the activities in be be stay and </s> 
+(Treino) BLEU: 0.32679

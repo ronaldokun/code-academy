@@ -1,0 +1,140 @@
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is a great of the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): The <unk> is a <unk> <unk> , the <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The hotel is located in the heart of the city , the hotel is located in the heart of the city . </s> 
+	 EN (Predicted): The <unk> is a <unk> <unk> , the <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The <unk> is a <unk> <unk> , the <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a <unk> <unk> <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The <unk> is a <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The hotel is a good location to enjoy a good location . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): The <unk> <unk> is a <unk> of the <unk> of <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> of the <unk> , and the <unk> of the <unk> of the <unk> , and the <unk> of the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a <unk> ##AT##-##AT## <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a <unk> ##AT##-##AT## <unk> <unk> , <unk> <unk> , <unk> , <unk> , and <unk> , and <unk> , and <unk> , and <unk> , and <unk> , and <unk> , and <unk> . </s> 
+	 EN (Predicted): <unk> is the <unk> <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a <unk> of the <unk> <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> of the <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): <unk> is a <unk> ##AT##-##AT## <unk> <unk> , <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is situated in the heart of the city . </s> 
+	 EN (Predicted): The <unk> <unk> is a <unk> of the <unk> of <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> is a unique variety of the <unk> , and the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The hotel is located in the heart of the <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): <unk> is a <unk> , and the <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a new range of the <unk> ##AT##-##AT## <unk> ##AT##-##AT## <unk> , and the <unk> ##AT##-##AT## <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The <unk> is a few steps from the <unk> , <unk> , <unk> , and <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): <unk> is a great place to be a <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): <unk> <unk> is a <unk> , and the <unk> of the <unk> , the <unk> of the <unk> , the <unk> of the <unk> , <unk> , <unk> , and <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The <unk> is a few of the <unk> , the <unk> of the <unk> , the <unk> of the <unk> , the <unk> of the <unk> , <unk> , and <unk> , and the <unk> of the <unk> , <unk> , and <unk> , and the <unk> of the <unk> , <unk> , and <unk> , and the <unk> of 
+	 EN (Predicted): The <unk> is a new list of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a new concept of the <unk> . </s> 
+	 EN (Predicted): Private parking is possible on site ( reservation is needed ) and costs EUR 27 <unk> per day . </s> 
+	 EN (Predicted): The <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): If you want to enjoy a great location in the city centre , this is a great place to relax in the hotel . </s> 
+	 EN (Predicted): The <unk> is a new way to be a <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a new concept of the <unk> ##AT##-##AT## <unk> , and the <unk> <unk> , and the <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is located on the banks of the city centre . </s> 
+	 EN (Predicted): <unk> is a new version of the <unk> <unk> , and the <unk> <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): The hotel is located in the heart of the city centre , the hotel is located in the heart of the city centre , the hotel is located in the heart of the city centre . </s> 
+	 EN (Predicted): The hotel is situated in the heart of the city , the hotel is situated in the heart of the city , the hotel is situated in the heart of the city . </s> 
+	 EN (Predicted): 20 And behold , verily , verily , verily , I say unto you , and I say unto you , and they have been a a great b b of the b hands of my b hands , and they are not to be saved in the Lord . </s> 
+	 EN (Predicted): This hotel is situated in the heart of the city , the hotel is situated in the heart of the city , the hotel is situated in the heart of the city . </s> 
+	 EN (Predicted): <unk> <unk> : <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): <unk> is a new version of the <unk> . </s> 
+	 EN (Predicted): The guest reviews are submitted by our customers after their stay at <unk> Hotel <unk> . </s> 
+	 EN (Predicted): <unk> is a new hotel in the heart of the city . </s> 
+	 EN (Predicted): The <unk> Hotel is situated in the heart of the city , the hotel is situated in the heart of the city , the hotel is situated in the heart of the city . </s> 
+	 EN (Predicted): <unk> is a new version of the <unk> <unk> , and the <unk> <unk> , the <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The hotel is very close to the city centre . </s> 
+	 EN (Predicted): The hotel is a modern hotel with a wonderful view of the <unk> . </s> 
+	 EN (Predicted): This is a new , and the <unk> ##AT##-##AT## <unk> , the <unk> <unk> <unk> , and the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a very nice and clean . </s> 
+	 EN (Predicted): A <unk> is a new of the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a new <unk> of the <unk> <unk> , which is the <unk> of the <unk> <unk> , and the <unk> of the <unk> of the <unk> . </s> 
+	 EN (Predicted): The hotel is a very nice room . </s> 
+	 EN (Predicted): <unk> is a very convenient way to the hotel . </s> 
+	 EN (Predicted): A credit card is required to secure your reservation at <unk> <unk> ( reservation ) . </s> 
+	 EN (Predicted): <unk> is a new solution for the <unk> <unk> , which is a new solution for the <unk> <unk> , which is a <unk> , and the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a new <unk> of the <unk> <unk> , which is the most important tourist attractions in the city , and the <unk> <unk> is a short walk from the city centre . </s> 
+	 EN (Predicted): The <unk> ##AT##-##AT## <unk> is a <unk> ##AT##-##AT## <unk> , and the <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): This is a <unk> , and the <unk> <unk> <unk> , the <unk> <unk> <unk> , and the <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> <unk> is a <unk> ##AT##-##AT## <unk> , the <unk> <unk> is a <unk> ##AT##-##AT## <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): <unk> is a <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a <unk> of the <unk> , and the <unk> of the <unk> , the <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> , the <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a new <unk> and the <unk> . </s> 
+	 EN (Predicted): The <unk> is a <unk> <unk> , which is a <unk> <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): The hotel is very nice and helpful staff . </s> 
+	 EN (Predicted): 1 For behold , I say unto you , that they are not a great , and they did not have a great . </s> 
+	 EN (Predicted): The NI PXIe ##AT##-##AT## <unk> is a new version of the NI ##AT##-##AT## <unk> . </s> 
+	 EN (Predicted): <unk> is the most important part of the <unk> , and the <unk> <unk> , the <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): <unk> <unk> is a very popular location in the heart of the city . </s> 
+	 EN (Predicted): The <unk> is a new concept of the <unk> and the <unk> <unk> , which is a <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): <unk> <unk> is a very small place to the most important tourist . </s> 
+	 EN (Predicted): <unk> is a convenient location to the <unk> . </s> 
+	 EN (Predicted): <unk> is a <unk> of the <unk> <unk> , which is a <unk> , and the <unk> of the <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a <unk> of the <unk> <unk> , which is a <unk> , and the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a wide range of the <unk> and <unk> <unk> , which is the most important part of the <unk> , and the <unk> of the <unk> , and the <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is a modern hotel with a modern and comfortable atmosphere . </s> 
+	 EN (Predicted): The hotel is a small hotel in the heart of the city , just a few steps from the beach and the beach . </s> 
+	 EN (Predicted): The hotel is a small hotel in the heart of the city centre , just a few steps from the beach and the <unk> . </s> 
+	 EN (Predicted): How do I do not want to do ? </s> 
+	 EN (Predicted): The hotel was very friendly and helpful . The room was very clean and very helpful . </s> 
+	 EN (Predicted): The hotel is a very small and quiet location . </s> 
+	 EN (Predicted): The <unk> ##AT##-##AT## <unk> is a <unk> ##AT##-##AT## <unk> module , the NI ##AT##-##AT## <unk> <unk> . </s> 
+	 EN (Predicted): The hotel is a small hotel in the heart of the city , just a few steps from the beach , the <unk> and the <unk> , the <unk> and the <unk> <unk> . </s> 
+	 EN (Predicted): <unk> is a new <unk> , and the <unk> <unk> <unk> is a new , and the <unk> of the <unk> , the <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): <unk> is a <unk> of the <unk> <unk> , the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> is a <unk> ##AT##-##AT## <unk> , and the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): This is a new version of the <unk> ##AT##-##AT## <unk> , and the <unk> <unk> is a new solution for the <unk> ##AT##-##AT## <unk> . </s> 
+	 EN (Predicted): The location is very close to the city centre and the hotel is very close to the city centre . </s> 
+	 EN (Predicted): If the user is not only a <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a <unk> of the <unk> , and the <unk> <unk> , the <unk> <unk> , the <unk> and <unk> <unk> . </s> 
+	 EN (Predicted): The location is very close to the city centre and the airport shuttle to the airport . </s> 
+	 EN (Predicted): <unk> is a complete solution for your business . </s> 
+	 EN (Predicted): The <unk> is a new <unk> ##AT##-##AT## <unk> , and the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> 
+	 EN (Predicted): The hotel is located in the heart of the city , and the hotel is only a few minutes walk from the city centre . </s> 
+	 EN (Predicted): The hotel is a very popular location , and the hotel is a short walk from the city centre . </s> 
+	 EN (Predicted): This is a new version of <unk> , which is a <unk> ##AT##-##AT## <unk> , which is a <unk> ##AT##-##AT## <unk> , and the <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): This 4 ##AT##-##AT## star hotel is located in the centre of the city centre , just a few minutes from the main railway station , just a short walk from the city centre . </s> 
+	 EN (Predicted): If you are looking for a short walk from the hotel , you can enjoy a drink in the hotel . </s> 
+	 EN (Predicted): <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The <unk> is a small hotel in the centre of the city , just a few minutes away from the main railway station and the <unk> <unk> . </s> 
+	 EN (Predicted): <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): <unk> <unk> is a <unk> ##AT##-##AT## <unk> , and the <unk> <unk> <unk> , the <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , 
+	 EN (Predicted): The <unk> is a <unk> <unk> , which is a <unk> , and the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The hotel was very clean and clean . </s> 
+	 EN (Predicted): The hotel is a perfect location for a short break from the city centre . </s> 
+	 EN (Predicted): The hotel is a very good location for the city of the city . </s> 
+	 EN (Predicted): <unk> is a new <unk> of the <unk> <unk> , which is the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): The <unk> is a new application for the <unk> . </s> 
+	 EN (Predicted): The <unk> <unk> is a new <unk> , and the <unk> <unk> , the <unk> <unk> , the <unk> <unk> , and the <unk> <unk> . </s> 
+	 EN (Predicted): This hotel is located in the heart of the city centre . </s> 
+	 EN (Predicted): <unk> is a perfect location for your business . </s> 
+	 EN (Predicted): This is a new <unk> , which is a new <unk> . </s> 
+	 EN (Predicted): <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): <unk> is a new <unk> of the <unk> <unk> , which is the <unk> <unk> . </s> 
+	 EN (Predicted): In the same example , the <unk> <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> 
+	 EN (Predicted): The <unk> is a new tool for the <unk> , and the <unk> <unk> <unk> , and the <unk> <unk> <unk> . </s> 
+	 EN (Predicted): <unk> is a new <unk> in the <unk> <unk> , which is a new <unk> of the <unk> . </s> 
+	 EN (Predicted): A <unk> is a new <unk> , which is a <unk> of the <unk> , and the <unk> of the <unk> . </s> 
+	 EN (Predicted): The <unk> is a new <unk> , which is a new , and the <unk> of the <unk> , and the <unk> of the <unk> <unk> . </s> 
+	 EN (Predicted): <unk> is a new <unk> and the <unk> of <unk> , which is a new and powerful and the <unk> of the <unk> . </s> 
+	 EN (Predicted): <unk> <unk> : What is the <unk> ? </s> 
+	 EN (Predicted): <unk> is a <unk> of the <unk> <unk> , which is a <unk> of the <unk> . </s> 
+	 EN (Predicted): It is a new problem that is a new , and it is a good idea to be a good idea . </s> 
+	 EN (Predicted): <unk> is a new version of the <unk> <unk> . </s> 
