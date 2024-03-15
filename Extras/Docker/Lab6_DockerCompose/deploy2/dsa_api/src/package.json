@@ -14,11 +14,11 @@
     "express": "^4.17.1",
     "pg": "^8.6.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.6.2",
+    "sequelize": "^6.29.0",
     "tedious": "^11.0.8"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.22",
     "sequelize-cli": "^6.2.0"
   }
 }
